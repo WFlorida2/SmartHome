@@ -10,13 +10,13 @@ import './styles.css'; // Import custom styles
 
 import HomePage from './components/HomePage';
 import LivingRoomPage from './components/LivingRoomPage'; // Import LivingRoomPage component
-import BedroomPage from './components/BedroomPage';
-import KitchenPage from './components/KitchenPage';
-import BathroomPage from './components/BathroomPage';
-import OfficePage from './components/OfficePage';
-import DiningPage from './components/DiningPage';
-import OutdoorPage from './components/OutdoorPage';
-import GaragePage from './components/GaragePage';
+import BedroomPage from './components/BedroomPage'; // Import BedroomPage component
+import KitchenPage from './components/KitchenPage'; // Import KitchenPage component
+import BathroomPage from './components/BathroomPage'; // Import BathroomPage component
+import OfficePage from './components/OfficePage'; // Import OfficePage component
+import DiningPage from './components/DiningPage'; // Import DiningPage component
+import OutdoorPage from './components/OutdoorPage'; // Import OutdoorPage component
+import GaragePage from './components/GaragePage'; // Import GaragePage component
 import Navbar from './components/Navbar'; // Import Navbar component
 import Footer from './components/Footer'; // Import the Footer component
 
