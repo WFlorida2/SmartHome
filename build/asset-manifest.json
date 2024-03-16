@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.95689fcf.css",
+    "main.js": "/static/js/main.e8926e09.js",
+    "static/js/453.ad6eb26e.chunk.js": "/static/js/453.ad6eb26e.chunk.js",
+    "static/media/SmartHome.png": "/static/media/SmartHome.0d57eb49a70602723618.png",
+    "index.html": "/index.html",
+    "main.95689fcf.css.map": "/static/css/main.95689fcf.css.map",
+    "main.e8926e09.js.map": "/static/js/main.e8926e09.js.map",
+    "453.ad6eb26e.chunk.js.map": "/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95689fcf.css",
+    "static/js/main.e8926e09.js"
+  ]
+}

@@ -1,0 +1,25 @@
+/* Navbar.css */
+
+.nav-link {
+    color: goldenrod; /* Set text color to goldenrod */
+  }
+  
+  .nav-link:hover {
+    color: #cda434; /* Set text color to a lighter shade of goldenrod on hover */
+  }
+  
+  .active {
+    color: #daa520; /* Set text color to a darker shade of goldenrod for active link */
+  }
+
+  /* Styles for screens smaller than 768px (typical mobile devices) */
+@media (max-width: 767px) {
+}
+
+/* Styles for screens between 768px and 992px (tablets) */
+@media (min-width: 768px) and (max-width: 991px) {
+}
+
+/* Styles for screens larger than 992px (desktops) */
+@media (min-width: 992px) {
+}

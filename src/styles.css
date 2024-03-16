@@ -1,0 +1,112 @@
+/* styles.css */
+
+body {
+  background-color: #030500; /* Set background color to black */
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; /* Change font family for all text elements */
+}
+
+.card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(234, 220, 220, 0.1);
+
+  }
+  
+  .card h2 {
+    margin-top: 0;
+    box-shadow: 3px 3px 3px goldenrod; /* Add shadow effect */
+    border-radius: 10px; /* Add rounded corners to images */
+  }
+  
+  .card p {
+    margin-bottom: 0;
+    box-shadow: 3px 3px 3px goldenrod; /* Add shadow effect */
+    border-radius: 10px; /* Add rounded corners to images */
+  }
+  
+  /* styles.css */
+
+img {
+  box-shadow: 5px 5px 5px goldenrod; /* Add shadow effect */
+  border-radius: 10px; /* Add rounded corners to images */
+}
+
+h2 {
+  color: goldenrod; /* Set color of h2 heading to goldenrod */
+  margin-top: 20px;
+}
+
+.logo-container {
+  margin-top: 20px; /* Adjust the value as needed */
+}
+
+/* RoomCard.css */
+
+.card {
+  text-align: center;
+  background-color: #26282e; /* Army green color */
+  color: hsl(0, 0%, 100%); /* White text color */
+  font-size: 25px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  font-size: 24px;
+}
+
+.card-text {
+  font-size: 18px;
+}
+
+/* Navbar.css */
+
+.nav-link {
+  color: goldenrod; /* Set text color to goldenrod */
+}
+
+.nav-link:hover {
+  color: #cda434; /* Set text color to a lighter shade of goldenrod on hover */
+}
+
+.active {
+  color: #daa520; /* Set text color to a darker shade of goldenrod for active link */
+}
+
+/* styles.css */
+.device-item {
+  display: flex;
+  align-items: center; /* Align items vertically */
+  justify-content: space-between; /* Add space between items */
+  padding: 10px;
+  margin-bottom: 5px;
+  background-color: #f9f9f9;
+  border-radius: 4px;
+  flex: 1 0 calc(66.66% - 20px); /* Let the device item take up two-thirds of the remaining space */
+  max-width: calc(66.66% - 20px); /* Limit the maximum width */
+  margin: 0 auto; /* Center the device item horizontally */
+}
+
+.label {
+  text-align: center;
+}
+
+.toggle-button {
+  margin-left: 10px; /* Add space between label and button */
+}
+
+/* Styles for screens smaller than 768px (typical mobile devices) */
+@media (max-width: 767px) {
+}
+
+/* Styles for screens between 768px and 992px (tablets) */
+@media (min-width: 768px) and (max-width: 991px) {
+}
+
+/* Styles for screens larger than 992px (desktops) */
+@media (min-width: 992px) {
+}
+
