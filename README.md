@@ -13,10 +13,12 @@ Wireframe tool used:
 • draw.io  
 
 ### Future development :  
-- Add functionality to allow the user to register their app, login using user name & password
-- Add other functionalities to control heating control, media control, security CCTV, alarms, garage gates
-- Integrate the app with EIBPORT technolgy to make use of the KNX technology
-- Keep improving each functionality as per user's demands & needs
+- Add functionality to allow the user to register their app, login using user name & password  
+- Add other functionalities to control heating control, media control, security CCTV, alarms, garage gates  
+- Add functionality to turn 'On' / 'Off' certain scenarios with just one button such as ' Cinema Scene', 'Out for shopping' etc  
+- Fixes of all bugs found during intial testing phase   
+- Integrate the app with EIBPORT technolgy to make use of the KNX technology  
+- Keep improving each functionality as per user's demands & needs  
 
 ### CREDIT:
 Please Note: I have learned so much during implementing this challenge given my early stages of developments with the huge aid of the following contributors:
