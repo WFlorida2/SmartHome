@@ -9,10 +9,6 @@ import RoomCard from './RoomCard';
 const HomePage = () => {
   return (
     <div>
-      <ul className="nav nav-tabs" id="myTab" role="tablist">
-        {/* Navigation tabs */}
-      </ul>
-
       <div className="tab-content" id="myTabContent">
         <div className="tab-pane fade show active" id="rooms" role="tabpanel">
           <div className="logo-container">
