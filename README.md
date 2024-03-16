@@ -10,7 +10,8 @@ The app is based on ‘Smart Home’ technology that could be in the future deve
 
 ### Deployed URL : 
 - Deployed URL: 
-- [![Netlify Status](https://api.netlify.com/api/v1/badges/91c9bf11-e45d-4d6c-8244-678fe8aca9ed/deploy-status)](https://app.netlify.com/sites/futuresmarthome/deploys)
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/91c9bf11-e45d-4d6c-8244-678fe8aca9ed/deploy-status?branch=main)](https://app.netlify.com/sites/futuresmarthome/deploys)
+
 
 ### Wireframe tool used:
 • draw.io  
