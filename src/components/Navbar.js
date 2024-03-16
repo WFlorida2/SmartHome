@@ -49,6 +49,7 @@ const Navbar = () => {
             </li>
             {/* Render a dropdown menu for selecting a room */}
             <li className="nav-item dropdown">
+            {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
               <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" style={{ color: 'black' }}>
                 Select a room
               </a>
