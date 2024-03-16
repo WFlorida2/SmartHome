@@ -36,7 +36,7 @@ const Navbar = () => {
             </li>
             <li className="nav-item dropdown">
               <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" style={{ color: 'black' }}>
-                Select a room {/* eslint-disable-next-line */}
+                Select a room
               </a>
               <ul className="dropdown-menu" style={{ backgroundColor: 'goldenrod' }}>
                 <li><Link className="dropdown-item" to="/living-room" style={{ color: 'black' }}>Living Room</Link></li>
