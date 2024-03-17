@@ -50,9 +50,9 @@ ChatGPT: https://chat.openai.com/
 
 ### Installation:
 
-• To access the webpage, the following URL should be used: “ ”.  
+• To access the webpage, the following URL should be used: “https://myfuturesmarthome.netlify.app/ ”.    
 • Once accessed, Feel free to navigate through rooms & spaces by clicking any of the rooms cards on the hoe page or by selecting a room from the dropdown menu on the Naviogation bar.  
-• As a developer who wishes to access the back-end files for this page, you will need to access GitHub to be able to open the repo via the following link: "https://github.com/WFlorida2/SmartHome "
+• As a developer who wishes to access the back-end files for this page, you will need to access GitHub to be able to open the repo via the following link: "https://github.com/WFlorida2/SmartHome/tree/main "  
 
 • To run the app:
 
@@ -72,3 +72,5 @@ ChatGPT: https://chat.openai.com/
 ![LightControl_sample_2](src/components/assets/images/LightControl_sample_2.png)
 ![LightControl_sample_3](src/components/assets/images/LightControl_sample_3.png)
 ![Contact Me](src/components/assets/images/ContactMe.png)
+![Deployed NTLIFY](smarthome/src/components/assets/images/DeployedNetlify.png)
+
