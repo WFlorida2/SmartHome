@@ -64,13 +64,5 @@ ChatGPT: https://chat.openai.com/
 
 #### End results:
 
-![First Mock-up screen](src/components/assets/images/FirstMock-Up_screen.png)
-![App logo](src/components/assets/images/SmartHome.png)
-![Main Home page](src/components/assets/images/MainHomePage.png)
-![Dropdown Menu](src/components/assets/images/DropdownMenu.png)
-![LightControl_sample_1](src/components/assets/images/LightControl_sample_1.png)
-![LightControl_sample_2](src/components/assets/images/LightControl_sample_2.png)
-![LightControl_sample_3](src/components/assets/images/LightControl_sample_3.png)
-![Contact Me](src/components/assets/images/ContactMe.png)
 ![Deployed NTLIFY](smarthome/src/components/assets/images/DeployedNetlify.png)
 
